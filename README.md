@@ -36,10 +36,6 @@ To install, download the APK to your Android device, open it, and allow installa
 
 APK SHA-256: `C670EF80DC03E6081288D846E752C9B03DD19976FD0A9DAE44EC43E48ECD0718`.
 
-### Acknowledgment
-
-The printer protocol implementation incorporates work from [tuat-yate/xiaomi-photo-printer](https://github.com/tuat-yate/xiaomi-photo-printer), distributed under the MIT license. Its license notice is included in the app.
-
 ## 简体中文
 
 PockiPic 是一款独立开发的 Android 照片浏览与打印队列应用，适用于兼容的小米照片打印机。应用在本地运行，无需米家、小米账号或应用运营方的云服务。PockiPic 与小米没有关联，也未获得小米官方背书。
@@ -70,8 +66,3 @@ PockiPic 是一款独立开发的 Android 照片浏览与打印队列应用，�
 
 **FTP 安全提示：** FTP 不会加密用户名、密码或文件。请仅在可信的私人网络中使用，并在完成后关闭。通过认证的 FTP 客户端可在所选文件夹内浏览、上传、下载、重命名和删除文件，具体取决于存储提供方的权限。获得凭据的人可能取得相同访问权限。
 
-APK SHA-256：`C670EF80DC03E6081288D846E752C9B03DD19976FD0A9DAE44EC43E48ECD0718`。
-
-### 致谢
-
-打印机协议实现参考并使用了 [tuat-yate/xiaomi-photo-printer](https://github.com/tuat-yate/xiaomi-photo-printer) 的代码，其采用 MIT 许可证；相应许可声明已包含在应用中。
