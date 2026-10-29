@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+  <rect width="1024" height="500" fill="#E9F0F6"/>
+  <circle cx="882" cy="85" r="220" fill="#DDE8EF"/>
+  <circle cx="972" cy="486" r="202" fill="#D4E2EB"/>
+  <text x="70" y="113" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="3" fill="#627D95">POCKIPIC</text>
+  <text x="66" y="198" font-family="Arial, sans-serif" font-size="53" font-weight="700" fill="#273F59">Photos, ready</text>
+  <text x="66" y="263" font-family="Arial, sans-serif" font-size="53" font-weight="700" fill="#273F59">to print.</text>
+  <rect x="70" y="301" width="58" height="5" rx="2.5" fill="#E3856D"/>
+  <text x="70" y="352" font-family="Arial, sans-serif" font-size="21" fill="#49657E">Choose. Frame. Queue.</text>
+  <g transform="translate(682 105) rotate(8 120 135)">
+    <rect x="0" y="0" width="234" height="286" rx="17" fill="#B7CAD9"/>
+    <rect x="-12" y="-12" width="234" height="286" rx="17" fill="#FFFAF2"/>
+    <rect x="3" y="3" width="204" height="215" rx="6" fill="#C5D9E5"/>
+    <circle cx="150" cy="60" r="24" fill="#E3856D"/>
+    <path d="M3 171 L64 93 L104 144 L133 116 L207 186 V218 H3Z" fill="#6686A0"/>
+    <path d="M3 188 L67 143 L103 171 L155 130 L207 180 V218 H3Z" fill="#496B80"/>
+    <rect x="3" y="233" width="88" height="8" rx="4" fill="#E2EAEF"/>
+    <rect x="3" y="248" width="135" height="8" rx="4" fill="#E2EAEF"/>
+  </g>
+</svg>
